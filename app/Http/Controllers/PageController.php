@@ -23,8 +23,7 @@ class PageController extends Controller
     }
 
     public function accommodation() {
-//        $images = File::allFiles(storage_path() . '/app/accom/gallery');
-        return view('accommodation', compact('images'));
+        return view('accommodation');
     }
 
     public function contact() {

@@ -54,6 +54,13 @@
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
+<div class="container">
+<div class="row">
+<div class="col">
+<p>Due to government advice, we're currently closed to trade and B&B.</p>
+</div>
+</div>
+</div>
 @yield('body')
 <footer id="footerContainer">
     <div class="container">

@@ -57,7 +57,7 @@
 <div class="container">
 <div class="row">
 <div class="col">
-<p>Due to government advice, we're currently closed to trade and B&B.</p>
+<h1>Due to government advice, we're currently closed to trade and B&B.</h1>
 </div>
 </div>
 </div>

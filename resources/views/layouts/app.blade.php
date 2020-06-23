@@ -57,7 +57,7 @@
 <div class="container">
 <div class="row">
 <div class="col">
-<h1>Due to government advice, we're currently closed to trade and B&B.</h1>
+<h1>Following government guidelines, we'll be opening on the 4th of July.</h1>
 </div>
 </div>
 </div>

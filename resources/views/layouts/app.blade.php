@@ -57,7 +57,9 @@
 <div class="container">
 <div class="row">
 <div class="col">
-<h1>Following government guidelines, we'll be opening on the 4th of July.</h1>
+<div><h1>Covid-19 update:</h1>
+<p>From Thursday 24<sup>th</sup> of September, we'll be opening from 4PM in the week.<br>If you're planning to visit for a sporting event (Football/Rugby etc) please get in touch to book a table.</p>
+</div>
 </div>
 </div>
 </div>

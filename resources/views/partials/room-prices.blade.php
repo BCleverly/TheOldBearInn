@@ -31,5 +31,5 @@
         <td>&pound;50.00</td>
     </tr>
     </tbody></table>
-<p>Prices are room only per night, Breakfast is &pound;7.50 per person per day.</p>
+<p>Prices are room only per night, Breakfast is &pound8.50 per person per day.</p>
 <p>If you're looking for longer stays please <a href="{{ route('contact') }}">get in touch with us</a></p>

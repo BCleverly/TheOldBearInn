@@ -58,7 +58,7 @@
 <div class="row">
 <div class="col">
 <div class="mb-4"><h1>Covid-19 update:</h1>
-<p>From Thursday 24<sup>th</sup> of September, we'll be opening from 4PM in the week.<br>If you're planning to visit for a sporting event (Football/Rugby etc) please get in touch to book a table.</p>
+<p>We'll be operating with table service instead of ordering at the ba and if you're planning to visit for a sporting event (Football/Rugby etc) please get in touch to book a table.</p>
 </div>
 </div>
 </div>

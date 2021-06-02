@@ -8,31 +8,31 @@
     <tr>
         <td>Monday</td>
         <td>Closed</td>
-        <td>4:00pm - 10:00pm</td>
+        <td>4:00pm - 11:00pm</td>
     </tr>
     <tr>
         <td>Tuesday</td>
         <td>Closed</td>
-        <td>4:00pm - 10:00pm</td>
+        <td>4:00pm - 11:00pm</td>
     </tr>
     <tr>
         <td>Wednesday</td>
         <td>Closed</td>
-        <td>4:00pm - 10:00pm</td>
+        <td>4:00pm - 11:00pm</td>
     </tr>
     <tr>
         <td>Thursday</td>
         <td>Closed</td>
-        <td>4:00pm - 10:00pm</td>
+        <td>4:00pm - 11:00pm</td>
     </tr>
     <tr>
         <td>Friday</td>
         <td>Closed</td>
-        <td>4:00pm - 10:00pm</td>
+        <td>4:00pm - 11:00pm</td>
     </tr>
     <tr>
         <td>Saturday</td>
-        <td colspan="2">Midday - 10:00pm</td>
+        <td colspan="2">Midday - 11:00pm</td>
     </tr>
     <tr>
         <td>Sunday</td>
